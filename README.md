@@ -1,2 +1,4 @@
-# htdp
-study and course related materials for How To Design Programs
+# htdp  How To Design Programs
+study and course related materials for the How To Design Programs books websight www.htdp.org
+
+
