@@ -4,4 +4,8 @@
 ;; How to Design Programs - 2003-09-26 (first book)
 ;; JMCausey | lastack99@gmail.com | 2016-01
 ;;
-;; Problem 
+;; Problem 2.3.3 total profit at the movie theater
+(define (total-profit a)
+  (- (* 5 a)(+ 20 (* .50 a))))
+;
+(total-profit 35) "should be" 137.5
